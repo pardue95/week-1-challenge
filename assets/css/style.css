@@ -33,7 +33,7 @@ header nav {
   font-size: 20px;
 }
 
-header nav ul {
+header nav ul 
   list-style-type: none;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 /* end offererd products section styling */
 
-/* begin benifits section styling */
+/* begin benefits section styling */
 
 .benefits {
   margin-right: 20px;
@@ -128,7 +128,7 @@ p {
   max-width: 150px;
 }
 
-/* end benifits section styling */
+/* end benefits section styling */
 
 /* footer styling */
 
