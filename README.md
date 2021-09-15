@@ -64,4 +64,4 @@ The URL of the GitHub repository that contains your code. Give the repository a 
 Deployed URL: https://pardue95.github.io/week-1-challenge/
 GitHub Repo URL: https://github.com/pardue95/week-1-challenge
 
-![image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/85760640/133353090-13f52be0-a225-4394-8207-27aed05e7b63.png)
